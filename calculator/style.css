@@ -1,0 +1,30 @@
+:root{
+    --black:#000000;
+    --darlBlue:#4E4FEB;
+    --skyblue:#068FFF;
+    --white:#faf8f8;
+}
+.dark{
+    background-color: #000000;
+}
+.heading{
+    color: #068FFF;
+    border-bottom: #000000 solid 2px;
+}
+.buttonB{
+    color:var(--skyblue);
+    
+        width: 70px;
+        height: 40px;
+        background:var(--black);
+        border-radius: 20%;
+        border-color: #4E4FEB 1px;
+        font-size:20px;
+     
+      
+}
+#screen{
+    color: bisque;
+    background-color: #000000;
+    font-size: 35px;
+}
